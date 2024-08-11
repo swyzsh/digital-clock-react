@@ -2,3 +2,13 @@
   font-family: 'digital-7';
   src: url('./assets/digital-7-mono-italic.ttf');
 }
+
+.clock-container {
+  text-align: center;
+}
+
+.clock-container span {
+  font-family: 'digital-7';
+  font-size: 4em;
+  color: #39FF14;
+}
